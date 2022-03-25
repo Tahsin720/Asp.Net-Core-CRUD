@@ -1,0 +1,283 @@
+﻿++Solution 'Medic_App' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:Medic_App.sln
+++Medic_App
+i:{00000000-0000-0000-0000-000000000000}:Medic_App
+++Connected Services 
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:>937
+++Dependencies
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:>936
+++Properties
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\properties\
+++launchSettings.json
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\properties\launchsettings.json
+++serviceDependencies.json
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\properties\servicedependencies.json
+++wwwroot
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\
+++Areas
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\areas\
+++Identity
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\areas\identity\
+++Pages
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\areas\identity\pages\
+++_ViewStart.cshtml
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\areas\identity\pages\_viewstart.cshtml
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\views\_viewstart.cshtml
+++Controllers
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\controllers\
+++HomeController.cs
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\controllers\homecontroller.cs
+++MedicInfoController.cs
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\controllers\medicinfocontroller.cs
+++Data
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\data\
+++Migrations
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\data\migrations\
+++00000000000000_CreateIdentitySchema.cs
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\data\migrations\00000000000000_createidentityschema.cs
+++20220324195546_addMedic_Info.cs
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\data\migrations\20220324195546_addmedic_info.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\data\migrations\applicationdbcontextmodelsnapshot.cs
+++ApplicationDbContext.cs
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\data\applicationdbcontext.cs
+++Models
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\models\
+++ErrorViewModel.cs
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\models\errorviewmodel.cs
+++Medic_Info.cs
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\models\medic_info.cs
+++Views
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\views\
+++Home
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\views\home\
+++Index.cshtml
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\views\home\index.cshtml
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\views\medicinfo\index.cshtml
+++Privacy.cshtml
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\views\home\privacy.cshtml
+++MedicInfo
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\views\medicinfo\
+++Create.cshtml
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\views\medicinfo\create.cshtml
+++Edit.cshtml
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\views\medicinfo\edit.cshtml
+++Shared
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\views\shared\
+++_Layout.cshtml
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\views\shared\_layout.cshtml
+++_LoginPartial.cshtml
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\views\shared\_loginpartial.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\views\shared\error.cshtml
+++_ViewImports.cshtml
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\views\_viewimports.cshtml
+++appsettings.json
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\appsettings.json
+++Program.cs
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\program.cs
+++SQL Server Express LocalDB (Local) (ConnectionStrings:DefaultConnection)
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:>970
+++Analyzers
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:analyzers
+++Frameworks
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:frameworks
+++Packages
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:packages
+++serviceDependencies.local.json
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\properties\servicedependencies.local.json
+++css
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\css\
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\js\
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\
+++favicon.ico
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\favicon.ico
+++00000000000000_CreateIdentitySchema.Designer.cs
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\data\migrations\00000000000000_createidentityschema.designer.cs
+++20220324195546_addMedic_Info.Designer.cs
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\data\migrations\20220324195546_addmedic_info.designer.cs
+++_Layout.cshtml.css
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\views\shared\_layout.cshtml.css
+++appsettings.Development.json
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\appsettings.development.json
+++MessagePackAnalyzer
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:c:\users\tasan\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.AspNetCore.Analyzers
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:c:\users\tasan\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:c:\users\tasan\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:c:\users\tasan\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.3\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\microsoft.netcore.app
+++Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore (6.0.3)
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:>950
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.3)
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:>951
+++Microsoft.AspNetCore.Identity.UI (6.0.3)
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:>954
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.3)
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:>949
+++Microsoft.EntityFrameworkCore.Tools (6.0.3)
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:>952
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.2)
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:>953
+++site.css
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\css\site.css
+++site.js
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\js\site.js
+++bootstrap
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\
+++jquery
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\jquery\
+++jquery-validation
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\jquery-validation-unobtrusive\
+++dist
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\jquery\dist\
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\jquery\license.txt
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.js
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{63c22197-54ec-4b0c-8d53-eea395a24ba1}:g:\codes\dotnet project\medic_app\medic_app\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
